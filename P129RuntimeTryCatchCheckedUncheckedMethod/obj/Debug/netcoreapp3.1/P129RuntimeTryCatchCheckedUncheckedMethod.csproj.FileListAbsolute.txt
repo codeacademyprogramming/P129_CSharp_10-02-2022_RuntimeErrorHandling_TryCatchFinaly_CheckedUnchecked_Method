@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P129\Task\P129RuntimeTryCatchCheckedUncheckedMethod\bin\Debug\netcoreapp3.1\P129RuntimeTryCatchCheckedUncheckedMethod.exe
+C:\Users\memme\Desktop\P129\Task\P129RuntimeTryCatchCheckedUncheckedMethod\bin\Debug\netcoreapp3.1\P129RuntimeTryCatchCheckedUncheckedMethod.deps.json
+C:\Users\memme\Desktop\P129\Task\P129RuntimeTryCatchCheckedUncheckedMethod\bin\Debug\netcoreapp3.1\P129RuntimeTryCatchCheckedUncheckedMethod.runtimeconfig.json
+C:\Users\memme\Desktop\P129\Task\P129RuntimeTryCatchCheckedUncheckedMethod\bin\Debug\netcoreapp3.1\P129RuntimeTryCatchCheckedUncheckedMethod.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P129\Task\P129RuntimeTryCatchCheckedUncheckedMethod\bin\Debug\netcoreapp3.1\P129RuntimeTryCatchCheckedUncheckedMethod.dll
+C:\Users\memme\Desktop\P129\Task\P129RuntimeTryCatchCheckedUncheckedMethod\bin\Debug\netcoreapp3.1\P129RuntimeTryCatchCheckedUncheckedMethod.pdb
+C:\Users\memme\Desktop\P129\Task\P129RuntimeTryCatchCheckedUncheckedMethod\obj\Debug\netcoreapp3.1\P129RuntimeTryCatchCheckedUncheckedMethod.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P129\Task\P129RuntimeTryCatchCheckedUncheckedMethod\obj\Debug\netcoreapp3.1\P129RuntimeTryCatchCheckedUncheckedMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P129\Task\P129RuntimeTryCatchCheckedUncheckedMethod\obj\Debug\netcoreapp3.1\P129RuntimeTryCatchCheckedUncheckedMethod.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P129\Task\P129RuntimeTryCatchCheckedUncheckedMethod\obj\Debug\netcoreapp3.1\P129RuntimeTryCatchCheckedUncheckedMethod.AssemblyInfo.cs
+C:\Users\memme\Desktop\P129\Task\P129RuntimeTryCatchCheckedUncheckedMethod\obj\Debug\netcoreapp3.1\P129RuntimeTryCatchCheckedUncheckedMethod.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P129\Task\P129RuntimeTryCatchCheckedUncheckedMethod\obj\Debug\netcoreapp3.1\P129RuntimeTryCatchCheckedUncheckedMethod.dll
+C:\Users\memme\Desktop\P129\Task\P129RuntimeTryCatchCheckedUncheckedMethod\obj\Debug\netcoreapp3.1\P129RuntimeTryCatchCheckedUncheckedMethod.pdb
+C:\Users\memme\Desktop\P129\Task\P129RuntimeTryCatchCheckedUncheckedMethod\obj\Debug\netcoreapp3.1\P129RuntimeTryCatchCheckedUncheckedMethod.genruntimeconfig.cache
